@@ -304,7 +304,7 @@ public void CheckEcpm()
 ### Ad Caching
 
 The implementation of caching of advertisements in all types of banners coincides 
-with the logic [of use for video advertising](https://github.com/Veittech/SMAI-Appodeal#ad-caching) and has the following form:
+with the logic [of use for video advertising](https://github.com/Veittech/SMAI-Appodeal?tab=readme-ov-file#ad-caching) and has the following form:
 ```c#
 public void CacheBannerAd()
 {
@@ -394,7 +394,7 @@ public void ShowMrecBanner()
 ### Other functions
 
 The implementation of obtaining the current ECPM for all types of banners coincides with
-[the implementation for video ads](https://github.com/Veittech/SMAI-Appodeal#other-functions) and has the following form:
+[the implementation for video ads](https://github.com/Veittech/SMAI-Appodeal?tab=readme-ov-file#other-functions) and has the following form:
 ```c#
 public void CheckEcpm()
 {
