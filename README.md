@@ -7,7 +7,7 @@
 ![Last release](https://img.shields.io/github/release-date/Veittech/SMAI-Appodeal?color=318CE7&style=flat-square&logo=Dropbox&logoColor=E0FFFF)
 ![Downloads](https://img.shields.io/github/downloads/Veittech/SMAI-Appodeal/total?color=318CE7&style=flat-square&logo=codeigniter&logoColor=E0FFFF)
 
-**SMAI Appodeal** is to speed up the integration of Appodeal Ad SDK into your project with a user-friendly api that reduces unnecessary lines of code.
+**SMAI Appodeal** is a library of add-ons for easy integration of Appodeal ad mediation in a few lines of code.
 
 Before importing this package, you should install the Appodeal SDK following their [official documentation](https://docs.appodeal.com/ru/unity/get-started) to avoid possible errors.
 
